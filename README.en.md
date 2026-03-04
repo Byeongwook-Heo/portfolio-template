@@ -17,9 +17,6 @@
 
 <br>
 
-<img src=".github/demo.gif" alt="Awesome Portfolio Template Demo - Dark mode, language switch, scroll animations" width="720" />
-
-
 </div>
 
 <br>

@@ -17,9 +17,6 @@
 
 <br>
 
-<img src=".github/demo.gif" alt="Awesome Portfolio Template 데모 - 다크 모드, 언어 전환, 스크롤 애니메이션" width="720" />
-
-
 </div>
 
 <br>
