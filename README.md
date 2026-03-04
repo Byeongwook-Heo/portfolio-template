@@ -13,8 +13,6 @@
 
 <br>
 
-[**라이브 데모 보러가기**](https://jihoon-gong.vercel.app)
-
 <br>
 
 </div>
