@@ -14,8 +14,6 @@ const navToSectionMap: Record<NavKey, keyof typeof siteConfig.sections> = {
   about: "about",
   experience: "experience",
   "career-highlights": "careerHighlights",
-  speaking: "speaking",
-  certified: "certified",
   projects: "projects",
   contact: "contact",
 };
