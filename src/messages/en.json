@@ -1,0 +1,85 @@
+{
+  "nav": {
+    "about": "About",
+    "experience": "Experience",
+    "certified": "Certified",
+    "speaking": "Speaking",
+    "projects": "Projects",
+    "contact": "Contact",
+    "career-highlights": "Highlights"
+  },
+  "hero": {
+    "greeting": "Hello",
+    "name": "Byungwook Heo",
+    "title": "Customer Success Manager",
+    "subtitle": "I drive sustainable customer value through enterprise onboarding, expansion, and renewal.",
+    "cta_resume": "View Highlights",
+    "cta_contact": "Get in Touch"
+  },
+  "about": {
+    "heading": "About",
+    "description_1": "I have worked across pre-sales and customer success in enterprise B2B environments, focusing on helping customers realize measurable outcomes after product adoption.",
+    "description_2": "I worked in pre-sales for financial and enterprise customers at AhnLab and OpenBase, and now serve as a Customer Success Manager in IBM's HashiCorp organization.",
+    "description_3": "My strength is connecting customer, technical, and sales stakeholders across onboarding, adoption, renewal, and expansion to build long-term partnerships.",
+    "keywords": ["Customer Success", "Pre-sales", "Enterprise", "HashiCorp", "Renewal", "Solution Consulting"]
+  },
+  "experience": {
+    "heading": "Experience"
+  },
+  "certified": {
+    "heading": "Certified",
+    "certifications": "Certifications",
+    "awards": "Awards"
+  },
+  "speaking": {
+    "heading": "Speaking & Community",
+    "talks": "Talks & Lectures",
+    "community": "Community"
+  },
+  "projects": {
+    "heading": "Projects"
+  },
+  "contact": {
+    "heading": "Contact",
+    "description": "I am open to conversations about customer success, pre-sales, and B2B collaboration.",
+    "email": "Email",
+    "blog": "Blog",
+    "github": "GitHub",
+    "linkedin": "LinkedIn"
+  },
+  "footer": {
+    "copyright": "© 2026 Byungwook Heo. All rights reserved.",
+    "built_with": "Built with Next.js · TypeScript · Tailwind CSS"
+  },
+  "common": {
+    "present": "Present",
+    "goal": "Goal",
+    "content": "Execution",
+    "result": "Result",
+    "view_more": "View More",
+    "view_slides": "Slides",
+    "view_video": "Watch Video",
+    "featured": "Featured",
+    "active": "Active"
+  },
+  "career_highlights": {
+    "heading": "Career Highlights",
+    "overview_label": "Overview",
+    "achievements_label": "Key Points",
+    "competencies_label": "Core Competencies",
+    "cta_title": "Explore Full Career Story",
+    "cta_description": "Review background, responsibilities, outcomes, and lessons by company.",
+    "cta_button": "View Details",
+    "self_developed_tools_label": "Operational Templates"
+  },
+  "career_story": {
+    "title": "Career Story",
+    "subtitle": "Detailed role, outcomes, and lessons from each company.",
+    "back": "Go Back",
+    "background": "Background",
+    "role": "Execution",
+    "results": "Results & Impact",
+    "lessons": "Lessons Learned",
+    "toc": "Table of Contents"
+  }
+}

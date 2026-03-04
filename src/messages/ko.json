@@ -1,0 +1,85 @@
+{
+  "nav": {
+    "about": "소개",
+    "experience": "경력",
+    "certified": "자격·수상",
+    "speaking": "발표",
+    "projects": "프로젝트",
+    "contact": "연락처",
+    "career-highlights": "핵심 경력"
+  },
+  "hero": {
+    "greeting": "안녕하세요",
+    "name": "허병욱",
+    "title": "Customer Success Manager",
+    "subtitle": "엔터프라이즈 고객의 도입, 확장, 리뉴얼을 통해 지속 가능한 고객 가치를 만듭니다.",
+    "cta_resume": "핵심 경력 보기",
+    "cta_contact": "연락하기"
+  },
+  "about": {
+    "heading": "About",
+    "description_1": "B2B 엔터프라이즈 환경에서 프리세일즈와 고객 성공 업무를 수행해 왔습니다. 고객의 비즈니스 목표를 이해하고, 제품 도입 이후 성과가 실제로 이어지도록 지원하는 데 집중합니다.",
+    "description_2": "안랩과 오픈베이스에서는 금융/기업 고객 대상 프리세일즈를 수행했고, 현재 IBM HashiCorp 조직에서 Customer Success Manager로 활동하고 있습니다.",
+    "description_3": "온보딩, 활성화, 리뉴얼, 확장까지 전 과정에서 고객-기술-영업 조직을 연결해 장기적인 파트너십과 비즈니스 성장을 만드는 것이 강점입니다.",
+    "keywords": ["Customer Success", "Pre-sales", "Enterprise", "HashiCorp", "Renewal", "Solution Consulting"]
+  },
+  "experience": {
+    "heading": "Experience"
+  },
+  "certified": {
+    "heading": "Certified",
+    "certifications": "자격증",
+    "awards": "수상"
+  },
+  "speaking": {
+    "heading": "Speaking & Community",
+    "talks": "발표·강의",
+    "community": "커뮤니티"
+  },
+  "projects": {
+    "heading": "Projects"
+  },
+  "contact": {
+    "heading": "Contact",
+    "description": "고객 성공, 프리세일즈, B2B 협업 관련 논의는 언제든 환영합니다.",
+    "email": "이메일",
+    "blog": "블로그",
+    "github": "GitHub",
+    "linkedin": "LinkedIn"
+  },
+  "footer": {
+    "copyright": "© 2026 허병욱. All rights reserved.",
+    "built_with": "Built with Next.js · TypeScript · Tailwind CSS"
+  },
+  "common": {
+    "present": "현재",
+    "goal": "목표",
+    "content": "수행 내용",
+    "result": "성과",
+    "view_more": "자세히 보기",
+    "view_slides": "발표 자료",
+    "view_video": "영상 보기",
+    "featured": "Featured",
+    "active": "활동 중"
+  },
+  "career_highlights": {
+    "heading": "Career Highlights",
+    "overview_label": "개요",
+    "achievements_label": "주요 내용",
+    "competencies_label": "핵심 역량",
+    "cta_title": "커리어 상세 보기",
+    "cta_description": "회사별 배경, 역할, 결과와 학습 포인트를 확인하세요.",
+    "cta_button": "상세 보기",
+    "self_developed_tools_label": "운영 템플릿"
+  },
+  "career_story": {
+    "title": "커리어 상세",
+    "subtitle": "각 회사에서 수행한 역할, 성과, 학습을 정리했습니다.",
+    "back": "뒤로가기",
+    "background": "배경",
+    "role": "수행 역할",
+    "results": "결과 & 임팩트",
+    "lessons": "Lessons Learned",
+    "toc": "목차"
+  }
+}
